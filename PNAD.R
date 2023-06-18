@@ -1,3 +1,5 @@
+# Versão 18/06/2023
+
 # Análise de microdados da PNAD Contínua
 # Limpando arquivos armazenados na memória
 # rm(list=ls(all=TRUE))
